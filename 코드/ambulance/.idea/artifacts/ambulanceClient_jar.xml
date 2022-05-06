@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ambulanceClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ambulanceClient_jar</output-path>
+    <root id="archive" name="ambulanceClient.jar">
+      <element id="module-output" name="ambulanceClient" />
+    </root>
+  </artifact>
+</component>
